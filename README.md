@@ -47,12 +47,12 @@ Full stack developer based in **Turin, Italy 🇮🇹**, building **trading infr
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vm24/vm24/output/stats-dark.svg" />
-    <img height="180" src="https://raw.githubusercontent.com/vm24/vm24/output/stats-light.svg" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vm24/vm24/output/stats-dark.svg?v=2" />
+    <img height="180" src="https://raw.githubusercontent.com/vm24/vm24/output/stats-light.svg?v=2" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vm24/vm24/output/streak-dark.svg" />
-    <img height="180" src="https://raw.githubusercontent.com/vm24/vm24/output/streak-light.svg" alt="Contribution streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vm24/vm24/output/streak-dark.svg?v=2" />
+    <img height="180" src="https://raw.githubusercontent.com/vm24/vm24/output/streak-light.svg?v=2" alt="Contribution streak" />
   </picture>
 </p>
 
