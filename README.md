@@ -46,8 +46,21 @@ Full stack developer based in **Turin, Italy 🇮🇹**, building **trading infr
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vm24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=vm24&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vm24/vm24/output/stats-dark.svg" />
+    <img height="180" src="https://raw.githubusercontent.com/vm24/vm24/output/stats-light.svg" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vm24/vm24/output/streak-dark.svg" />
+    <img height="180" src="https://raw.githubusercontent.com/vm24/vm24/output/streak-light.svg" alt="Contribution streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vm24/vm24/output/langs-dark.svg" />
+    <img width="660" src="https://raw.githubusercontent.com/vm24/vm24/output/langs-light.svg" alt="Most used languages" />
+  </picture>
 </p>
 
 <p align="center">
