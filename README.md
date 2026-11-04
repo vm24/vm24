@@ -56,19 +56,7 @@ Full stack developer based in **Turin, Italy 🇮🇹**, building **trading infr
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vm24/vm24/output/langs-dark.svg" />
-    <img width="660" src="https://raw.githubusercontent.com/vm24/vm24/output/langs-light.svg" alt="Most used languages" />
-  </picture>
-</p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vm24/vm24/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/vm24/vm24/output/github-snake.svg" alt="Contribution snake" />
-  </picture>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="" />
