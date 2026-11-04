@@ -139,7 +139,7 @@ function langsCard(t) {
 
 mkdirSync(outDir, { recursive: true });
 for (const [name, t] of Object.entries(themes)) {
-  writeFileSync(`${outDir}/stats-${name}.svg`, statsCard(t));
-  writeFileSync(`${outDir}/streak-${name}.svg`, streakCard(t));
+  writeFileSync(`${outDir}/card-stats-${name}.svg`, statsCard(t));
+  writeFileSync(`${outDir}/card-streak-${name}.svg`, streakCard(t));
 }
 console.log({ total, ...totals, current, longest, repos: repos.totalCount, stars, langs: topLangs.map(([n]) => n) });
