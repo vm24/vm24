@@ -89,15 +89,11 @@ const font = `font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif"`;
 function statsCard(t) {
   const rows = [
     ["Total contributions", total],
-    ["Public commits", totals.commits],
     ["Private contributions", totals.private],
-    ["Pull requests", totals.prs],
-    ["Repositories", repos.totalCount],
-    ["Stars earned", stars],
   ];
   const body = rows.map(([k, v], n) => `
-    <text x="25" y="${70 + n * 26}" fill="${t.text}" font-size="14" ${font}>${esc(k)}</text>
-    <text x="300" y="${70 + n * 26}" fill="${t.value}" font-size="14" font-weight="600" text-anchor="end" ${font}>${v.toLocaleString("en-US")}</text>`).join("");
+    <text x="25" y="${98 + n * 78}" fill="${t.value}" font-size="30" font-weight="700" ${font}>${v.toLocaleString("en-US")}</text>
+    <text x="25" y="${122 + n * 78}" fill="${t.text}" font-size="14" ${font}>${esc(k)}</text>`).join("");
   return `<svg xmlns="http://www.w3.org/2000/svg" width="325" height="230" viewBox="0 0 325 230">
   <rect width="325" height="230" rx="10" fill="${t.bg}"/>
   <text x="25" y="36" fill="${t.title}" font-size="17" font-weight="600" ${font}>GitHub Stats</text>${body}
