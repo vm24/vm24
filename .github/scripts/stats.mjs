@@ -89,9 +89,9 @@ const font = `font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif"`;
 function statsCard(t) {
   const rows = [
     ["Total contributions", total],
-    ["Commits", totals.commits],
+    ["Public commits", totals.commits],
+    ["Private contributions", totals.private],
     ["Pull requests", totals.prs],
-    ["Issues", totals.issues],
     ["Repositories", repos.totalCount],
     ["Stars earned", stars],
   ];
