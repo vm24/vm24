@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="325" height="230" viewBox="0 0 325 230">
+  <rect width="325" height="230" rx="10" fill="#1a1b27"/>
+  <text x="25" y="36" fill="#70a5fd" font-size="17" font-weight="600" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Contribution Streak</text>
+  <circle cx="162" cy="92" r="40" fill="none" stroke="#bf91f3" stroke-width="4"/>
+  
+    <text x="162" y="102" fill="#ffffff" font-size="30" font-weight="700" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">0</text>
+    <text x="162" y="165" fill="#a9b1d6" font-size="13" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Current streak</text>
+  
+    <text x="60" y="102" fill="#ffffff" font-size="30" font-weight="700" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">12</text>
+    <text x="60" y="165" fill="#a9b1d6" font-size="13" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Longest</text>
+  
+    <text x="265" y="102" fill="#ffffff" font-size="30" font-weight="700" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">2,448</text>
+    <text x="265" y="165" fill="#a9b1d6" font-size="13" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Total</text>
+  <text x="162" y="200" fill="#a9b1d6" font-size="11" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Updated 2026-11-07</text>
+</svg>
