@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="325" height="230" viewBox="0 0 325 230">
+  <rect width="325" height="230" rx="10" fill="#1a1b27"/>
+  <text x="25" y="36" fill="#70a5fd" font-size="17" font-weight="600" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">GitHub Stats</text>
+    <text x="25" y="98" fill="#ffffff" font-size="30" font-weight="700" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">2,448</text>
+    <text x="25" y="122" fill="#a9b1d6" font-size="14" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Total contributions</text>
+    <text x="25" y="176" fill="#ffffff" font-size="30" font-weight="700" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">2,425</text>
+    <text x="25" y="200" fill="#a9b1d6" font-size="14" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Private contributions</text>
+</svg>
